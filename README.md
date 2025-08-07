@@ -1,22 +1,18 @@
-Traducción al Español para Ancient Spellcraft
-Instrucciones de instalación
+Traducción de mods al Español
+Este proyecto forma parte de una iniciativa personal para traducir mods que no tienen soporte oficial en español.
+La idea es recopilar una serie de mods sin traducción para que más jugadores puedan disfrutarlos sin la barrera del idioma, especialmente quienes tienen dificultades con el inglés.
 
-1. Asegúrate de tener instalado el mod Ancient Spellcraft junto con sus dependencias.
+Instrucción de instalación
 
-2. Localiza la carpeta mods en tu instalación de Minecraft.
-
-3. Busca el archivo del mod, algo como:
+1. Localiza la carpeta mods en tu instalación de Minecraft.
+2. Asegúrate de tener instalado el mod respectivo que quieres traducir junto con sus dependencias.
+3. Busca el archivo del mod, por ejemplo para el Ancient Spellcraft:
    AncientSpellcraft-x.x.x.jar
-
 4. Haz clic derecho sobre el archivo .jar y selecciona Abrir con WinRAR.
-
-5. Dentro del archivo, navega a la siguiente ruta:
+5. Dentro del archivo, navega a la siguiente ruta, siguiendo con el ejemplo de Ancient Spellcraft:
    assets/ancientspellcraft/lang/
-
 6. Coloca el archivo es_es.lang en esa carpeta.
-
 7. Cierra WinRAR. Asegúrate de que guarde los cambios.
-
 8. Inicia Minecraft y selecciona el idioma Español (España) en las opciones.
-
 9. Disfruta del mod en español <3
+10. Si tienes alguna duda puedes contactarme por discord: Skryex27
